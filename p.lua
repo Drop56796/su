@@ -10,7 +10,7 @@ Frame.BackgroundTransparency = 1
 Frame.Parent = tip
 
 local textLabel = Instance.new("TextLabel")
-textLabel.Text = "THE MAYHEMS..."
+textLabel.Text = "The Forbiddens..."
 textLabel.AnchorPoint = Vector2.new(0.5, 0.5)
 textLabel.Size = UDim2.new(100, 0, 10, 20)
 textLabel.Position = UDim2.new(0.50, 0, 0.5, 0)
