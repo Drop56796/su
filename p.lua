@@ -1,3 +1,11 @@
+local cue2 = Instance.new("Sound")
+	cue2.Parent = game.Workspace
+	cue2.Name = "Sound"
+	cue2.SoundId = "rbxassetid://1546975842"
+	cue2.Volume = 2
+	cue2.PlaybackSpeed = 0.400001
+	cue2:Play()
+
 local tip = Instance.new("ScreenGui")
 tip.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 tip.Name = "占位付"
